@@ -1,7 +1,8 @@
 package com.hamitmizrak;
 
-public class FirstCodes {
+public class _01_Psvm {
+
     public static void main(String[] args) {
-        System.out.println("Hamit Mızrak");
+        System.out.println("Merhabalar");
     }
 }
