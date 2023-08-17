@@ -17,9 +17,9 @@ public class GenericsData<T> {
         this.adi = adi;
     }
 
-    public static void main(String[] args) {
+ /*   public static void main(String[] args) {
         GenericsData genericsData=new GenericsData();
         genericsData.setAdi(true);
         System.out.println(genericsData.getAdi());
-    }
+    }*/
 }
